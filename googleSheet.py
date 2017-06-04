@@ -17,7 +17,7 @@ except ImportError:
 # at ~/.credentials/sheets.googleapis.com-python-quickstart.json
 SCOPES = 'https://www.googleapis.com/auth/spreadsheets.readonly'
 CLIENT_SECRET_FILE = 'client_secret.json'
-APPLICATION_NAME = 'aaa'
+APPLICATION_NAME = 'Google Sheet'
 
 
 def get_credentials():
